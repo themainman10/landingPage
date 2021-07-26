@@ -1,0 +1,65 @@
+*{
+    color: white;
+    margin: 2.5% 2.5% 2.5% 2.5%;
+}
+
+body{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easy-pescatarian-recipes-1557518379.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"); 
+}
+
+/* form / sec 3*/
+
+form{
+    border-style: solid;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+.form-text{
+margin-right: 19%;
+}
+
+
+#but{
+    margin-bottom: 5%;
+}
+
+/* form / sec 3 ends*/
+
+
+
+/* forum*/
+
+
+#margin-from-top{
+    margin-bottom: 25%;
+}
+
+.submit-button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: white;
+}
+
+
+form {
+    margin-left: 25%;
+    color: white;
+}
+/* forum ends */
+
+div{
+    display: inline;
+}
+
+img {
+    width: 100%;
+ margin: 10% 10% 10% 10%;
+}
