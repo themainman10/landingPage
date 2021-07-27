@@ -13,15 +13,13 @@ body{
     width: 10%;
 }
 
-nav{
-    margin-bottom: 5%;
-}
+
 img{
     margin: 2.5% 2.5% 2.5% 2.5%;
 }
 
 form{
-    border-style: solid;
+    
     text-align: center;
     margin-right: 10%;
     margin-left: 10%;
@@ -47,12 +45,20 @@ margin-right: 19%;
 .jum-1{
     text-align: center;
     margin-bottom: 10%;
+    color: white;
 }
 
 .space-1{
     margin-left: 5%;
 }
 
+
+.space-1-1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
 .jum-2{
     margin-top: 2.5%;
@@ -64,6 +70,7 @@ margin-right: 19%;
 .jum-3{
     margin-left: 10%;
     margin-right: 10%;
+    color: white;
 }
 
 .b1-1{
@@ -99,11 +106,12 @@ img {
 
 }
 
-.center-img{
-    text-align: center;
+
+
+.space-3{
+    margin-top: 5%;
 }
 
-.space{
-    margin-left: 10%;
-    margin-right: 10%;
+.space-4{
+    margin-bottom: 5%;
 }
