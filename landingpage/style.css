@@ -1,13 +1,24 @@
 *{
-    color: white;
+    color: black;
+}
+/*
+body{
     margin: 2.5% 2.5% 2.5% 2.5%;
 }
+*/
+/* form / sec 3*/
 
-body{
-    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easy-pescatarian-recipes-1557518379.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"); 
+#logo-img{
+    margin: 0%;
+    width: 10%;
 }
 
-/* form / sec 3*/
+nav{
+    margin-bottom: 5%;
+}
+img{
+    margin: 2.5% 2.5% 2.5% 2.5%;
+}
 
 form{
     border-style: solid;
@@ -27,9 +38,37 @@ margin-right: 19%;
 
 /* form / sec 3 ends*/
 
-
+#jumbo{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easy-pescatarian-recipes-1557518379.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"); 
+}
 
 /* forum*/
+
+.jum-1{
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.space-1{
+    margin-left: 5%;
+}
+
+
+.jum-2{
+    margin-top: 2.5%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+
+
+.jum-3{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.b1-1{
+    margin-top: 2%;
+}
 
 
 #margin-from-top{
@@ -50,20 +89,21 @@ margin-right: 19%;
 
 
 form {
-    margin-left: 25%;
-    color: white;
+    text-align: center;
+    
 }
 /* forum ends */
 
-div{
-    display: inline;
-}
-
 img {
     width: 100%;
- margin: 10% 10% 10% 10%;
+
 }
 
 .center-img{
     text-align: center;
+}
+
+.space{
+    margin-left: 10%;
+    margin-right: 10%;
 }
